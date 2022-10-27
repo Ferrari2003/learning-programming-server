@@ -8,7 +8,7 @@
     "rating": 5.0,
     "img": "https://i.ibb.co/8m1qCGr/3533582.jpg",
     "level": "Beginer",
-    "class": 24,
+    "class_length": 24,
     "enrolled": 258,
     "last_update": "July 24, 2022",
     "author": "Timmy McGinn"
@@ -22,7 +22,7 @@
     "rating": 5.0,
     "img": "https://i.ibb.co/SXwBQ1d/1726.jpg",
     "level": "Beginer",
-    "class": 23,
+    "class_length": 23,
     "enrolled": 224,
     "last_update": "February 16, 2022",
     "author": "Andrej Ryley"
@@ -36,7 +36,7 @@
     "rating": 5.0,
     "img": "https://i.ibb.co/zNLjYbk/professional-programmer-working-late-dark-office.jpg",
     "level": "Intermediate",
-    "class": 16,
+    "class_length": 16,
     "enrolled": 276,
     "last_update": "September 09, 2022",
     "author": "Margaux Nutbeem"
@@ -50,7 +50,7 @@
     "rating": 5.0,
     "img": "https://i.ibb.co/ftXxcJf/5778864.jpg",
     "level": "Beginer",
-    "class": 20,
+    "class_length": 20,
     "enrolled": 226,
     "last_update": "August 13, 2022",
     "author": "Cally Maddrah"
@@ -64,7 +64,7 @@
     "rating": 5.0,
     "img": "https://i.ibb.co/Ny1R0jw/rsz-businesswoman-using-tablet-analysis-graph-company-finance-strategy-statistics-success-concept-pl.jpg",
     "level": "Advanced",
-    "class": 17,
+    "class_length": 17,
     "enrolled": 297,
     "last_update": "June 20, 2022",
     "author": "Tedie Alennikov"
@@ -78,7 +78,7 @@
     "rating": 5.0,
     "img": "https://i.ibb.co/3YsYGx7/849.jpg",
     "level": "Advanced",
-    "class": 16,
+    "class_length": 16,
     "enrolled": 271,
     "last_update": "17 Aug 2022",
     "author": "Hinze Hollebon"
